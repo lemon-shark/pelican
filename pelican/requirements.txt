@@ -1,0 +1,5 @@
+sphinx==1.4.9
+sphinx_rtd_theme
+flake8
+flake8-import-order
+mock

@@ -1,3 +1,7 @@
+Apply git hooks in development workflow
+--------
+Bring the team on the same hooks:
+
 Apply git hooks in development workflow. Bring the team on the same hooks.
 1. The global hooks store in a normal foder in the repo called git-hooks
 2. If you’re using Git version 2.9 or greater, you can simply run the below command to change the hooks folder to git-hooks instead of .git/hooks.
