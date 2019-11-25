@@ -1,7 +1,8 @@
+#!/usr/bin/env
 
 # An hook script to make use of push options.
 # The script rejects ask the contributors to redo their commit
-# messages if it not ends with format e.g. Fixes#585 
+# messages if it not ends with format e.g. Fixes#585
 
 import sys
 import subprocess
